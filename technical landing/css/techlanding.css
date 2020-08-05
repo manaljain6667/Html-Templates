@@ -1,0 +1,48 @@
+
+html{
+    height: 100%;
+}
+
+
+
+body{
+    
+    background: url(images/photo-1479920252409-6e3d8e8d4866.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: catamaran;
+    
+}
+.center{
+    text-align: center;
+    padding-top: 10%;
+}
+
+h1,p{
+    color: black;
+}
+
+h2> span{
+    color: black;
+}
+#login{
+    min-width: 250px;
+    background-color: rgba(255,255,255, 0.7);
+/*             top left bottom*/
+    padding: 14px 14px 0;
+    overflow: hidden;
+}
+#login .social-buttons
+{
+    margin: 12px 0;
+}
+
+.btn-fb{
+    color: #fff;
+    background-color: #3b5998;
+}
+
+.btn-tw{
+     color: #fff;
+    background-color: #55acee;
+}

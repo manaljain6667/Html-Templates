@@ -1,0 +1,25 @@
+body{
+    padding-top: 20px;
+}
+
+.nav-justified{
+    background-color: #eee;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.nav-justified >li > a{
+/*             top and bottom left and right*/
+    padding: 15px 0;
+    color: #777;
+    text-align: center;
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: transparent;
+}
+
+.row{
+    text-align: center;
+}
